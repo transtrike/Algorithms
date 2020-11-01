@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/bin/Debug/netcoreapp3.1/BinarySearchTree.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/obj/Debug/netcoreapp3.1/BinarySearchTree.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/obj/Debug/netcoreapp3.1/BinarySearchTree.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/obj/Debug/netcoreapp3.1/BinarySearchTree.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/obj/Debug/netcoreapp3.1/BinarySearchTree.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Trees/BinarySearchTree/obj/Debug/netcoreapp3.1/BinarySearchTree.pdb

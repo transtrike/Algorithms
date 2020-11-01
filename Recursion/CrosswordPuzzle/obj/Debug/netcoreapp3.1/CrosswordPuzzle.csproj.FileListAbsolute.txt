@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/bin/Debug/netcoreapp3.1/CrosswordPuzzle.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/obj/Debug/netcoreapp3.1/CrosswordPuzzle.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/obj/Debug/netcoreapp3.1/CrosswordPuzzle.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/obj/Debug/netcoreapp3.1/CrosswordPuzzle.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/obj/Debug/netcoreapp3.1/CrosswordPuzzle.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/CrosswordPuzzle/obj/Debug/netcoreapp3.1/CrosswordPuzzle.pdb

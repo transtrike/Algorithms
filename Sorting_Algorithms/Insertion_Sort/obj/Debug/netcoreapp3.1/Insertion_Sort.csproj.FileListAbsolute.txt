@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/bin/Debug/netcoreapp3.1/Insertion_Sort.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Sorting_Algorithms/Insertion_Sort/obj/Debug/netcoreapp3.1/Insertion_Sort.pdb

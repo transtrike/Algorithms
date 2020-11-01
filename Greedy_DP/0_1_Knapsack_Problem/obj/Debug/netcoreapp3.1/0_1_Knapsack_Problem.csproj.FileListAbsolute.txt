@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/obj/Debug/netcoreapp3.1/0_1_Knapsack_Problem.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/obj/Debug/netcoreapp3.1/0_1_Knapsack_Problem.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/obj/Debug/netcoreapp3.1/0_1_Knapsack_Problem.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/bin/Debug/netcoreapp3.1/0_1_Knapsack_Problem.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/obj/Debug/netcoreapp3.1/0_1_Knapsack_Problem.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/0_1_Knapsack_Problem/obj/Debug/netcoreapp3.1/0_1_Knapsack_Problem.pdb

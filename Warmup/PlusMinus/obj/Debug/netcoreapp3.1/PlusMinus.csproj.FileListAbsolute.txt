@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/bin/Debug/netcoreapp3.1/PlusMinus.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/obj/Debug/netcoreapp3.1/PlusMinus.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/obj/Debug/netcoreapp3.1/PlusMinus.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/obj/Debug/netcoreapp3.1/PlusMinus.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/obj/Debug/netcoreapp3.1/PlusMinus.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/PlusMinus/obj/Debug/netcoreapp3.1/PlusMinus.pdb

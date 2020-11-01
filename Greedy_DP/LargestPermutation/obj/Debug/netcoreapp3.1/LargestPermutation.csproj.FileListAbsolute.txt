@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/bin/Debug/netcoreapp3.1/LargestPermutation.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/obj/Debug/netcoreapp3.1/LargestPermutation.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/obj/Debug/netcoreapp3.1/LargestPermutation.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/obj/Debug/netcoreapp3.1/LargestPermutation.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/obj/Debug/netcoreapp3.1/LargestPermutation.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/LargestPermutation/obj/Debug/netcoreapp3.1/LargestPermutation.pdb

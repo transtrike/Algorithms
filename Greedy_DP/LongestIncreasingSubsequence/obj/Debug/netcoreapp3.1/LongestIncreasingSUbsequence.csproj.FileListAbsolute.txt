@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/obj/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/obj/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/obj/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/bin/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/obj/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/LongestIncreasingSUbsequence/obj/Debug/netcoreapp3.1/LongestIncreasingSUbsequence.pdb

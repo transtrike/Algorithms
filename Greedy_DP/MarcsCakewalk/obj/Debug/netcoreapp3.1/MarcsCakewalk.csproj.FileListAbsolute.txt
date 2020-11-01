@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/bin/Debug/netcoreapp3.1/MarcsCakewalk.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/Debug/netcoreapp3.1/MarcsCakewalk.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/Debug/netcoreapp3.1/MarcsCakewalk.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/Debug/netcoreapp3.1/MarcsCakewalk.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/Debug/netcoreapp3.1/MarcsCakewalk.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/Debug/netcoreapp3.1/MarcsCakewalk.pdb

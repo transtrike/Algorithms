@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/bin/Debug/netcoreapp3.1/FibMemorization.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/obj/Debug/netcoreapp3.1/FibMemorization.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/obj/Debug/netcoreapp3.1/FibMemorization.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/obj/Debug/netcoreapp3.1/FibMemorization.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/obj/Debug/netcoreapp3.1/FibMemorization.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/FibMemorization/obj/Debug/netcoreapp3.1/FibMemorization.pdb

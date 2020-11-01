@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.deps.json
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.dll
+/home/viko/Documents/Programming/Projects/C#/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.pdb
+/home/viko/Documents/Programming/Projects/C#/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.dll
+/home/viko/Documents/Programming/Projects/C#/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.pdb

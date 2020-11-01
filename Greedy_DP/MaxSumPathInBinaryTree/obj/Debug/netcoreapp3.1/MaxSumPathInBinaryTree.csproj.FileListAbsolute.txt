@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/bin/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/obj/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/obj/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/obj/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/obj/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy/MaxSumPathInBinaryTree/obj/Debug/netcoreapp3.1/MaxSumPathInBinaryTree.pdb

@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/bin/Debug/netcoreapp3.1/TimeConversion.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/obj/Debug/netcoreapp3.1/TimeConversion.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/obj/Debug/netcoreapp3.1/TimeConversion.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/obj/Debug/netcoreapp3.1/TimeConversion.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/obj/Debug/netcoreapp3.1/TimeConversion.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/TimeConversion/obj/Debug/netcoreapp3.1/TimeConversion.pdb

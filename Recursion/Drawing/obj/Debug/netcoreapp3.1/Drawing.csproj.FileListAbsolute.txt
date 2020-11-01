@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/bin/Debug/netcoreapp3.1/Drawing.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/obj/Debug/netcoreapp3.1/Drawing.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/obj/Debug/netcoreapp3.1/Drawing.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/obj/Debug/netcoreapp3.1/Drawing.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/obj/Debug/netcoreapp3.1/Drawing.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/Drawing/obj/Debug/netcoreapp3.1/Drawing.pdb

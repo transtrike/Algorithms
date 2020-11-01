@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/bin/Debug/netcoreapp3.1/Staircase.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/obj/Debug/netcoreapp3.1/Staircase.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/obj/Debug/netcoreapp3.1/Staircase.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/obj/Debug/netcoreapp3.1/Staircase.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/obj/Debug/netcoreapp3.1/Staircase.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/Staircase/obj/Debug/netcoreapp3.1/Staircase.pdb

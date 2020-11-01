@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/bin/Debug/netcoreapp3.1/DiagonalDifference.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/obj/Debug/netcoreapp3.1/DiagonalDifference.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/obj/Debug/netcoreapp3.1/DiagonalDifference.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/obj/Debug/netcoreapp3.1/DiagonalDifference.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/obj/Debug/netcoreapp3.1/DiagonalDifference.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Warmup/DiagonalDifference/obj/Debug/netcoreapp3.1/DiagonalDifference.pdb

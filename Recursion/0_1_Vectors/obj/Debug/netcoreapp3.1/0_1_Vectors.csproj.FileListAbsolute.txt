@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/obj/Debug/netcoreapp3.1/0_1_Vectors.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/obj/Debug/netcoreapp3.1/0_1_Vectors.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/obj/Debug/netcoreapp3.1/0_1_Vectors.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/bin/Debug/netcoreapp3.1/0_1_Vectors.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/obj/Debug/netcoreapp3.1/0_1_Vectors.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/Recursion/0_1_Vectors/obj/Debug/netcoreapp3.1/0_1_Vectors.pdb

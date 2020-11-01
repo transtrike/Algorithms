@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/bin/Debug/netcoreapp3.1/AVeryBigSum.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/obj/Debug/netcoreapp3.1/AVeryBigSum.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/obj/Debug/netcoreapp3.1/AVeryBigSum.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/obj/Debug/netcoreapp3.1/AVeryBigSum.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/obj/Debug/netcoreapp3.1/AVeryBigSum.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/AVeryBigSum/obj/Debug/netcoreapp3.1/AVeryBigSum.pdb

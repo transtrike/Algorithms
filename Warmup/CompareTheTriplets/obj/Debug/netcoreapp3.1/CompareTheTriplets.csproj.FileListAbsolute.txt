@@ -1,0 +1,11 @@
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets.deps.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets.runtimeconfig.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets.runtimeconfig.dev.json
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/bin/Debug/netcoreapp3.1/CompareTheTriplets.pdb
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/obj/Debug/netcoreapp3.1/CompareTheTriplets.csprojAssemblyReference.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/obj/Debug/netcoreapp3.1/CompareTheTriplets.AssemblyInfoInputs.cache
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/obj/Debug/netcoreapp3.1/CompareTheTriplets.AssemblyInfo.cs
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/obj/Debug/netcoreapp3.1/CompareTheTriplets.dll
+/home/viko/Documents/Programming/Projects/C#/Algorithms/CompareTheTriplets/obj/Debug/netcoreapp3.1/CompareTheTriplets.pdb

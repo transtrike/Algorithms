@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/MarcsCakewalk.csproj": {}
+  },
+  "projects": {
+    "/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/MarcsCakewalk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/MarcsCakewalk.csproj",
+        "projectName": "MarcsCakewalk",
+        "projectPath": "/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/MarcsCakewalk.csproj",
+        "packagesPath": "/home/viko/.nuget/packages/",
+        "outputPath": "/home/viko/Documents/Programming/Projects/C#/Algorithms/Greedy_DP/MarcsCakewalk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/viko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
